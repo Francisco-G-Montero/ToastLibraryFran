@@ -49,7 +49,7 @@ afterEvaluate {
                 from components.release
                 groupId = "com.github.Francisco-G-Montero"
                 artifactId = "ToastLibraryFran"
-                version = "0.2.1"
+                version = "0.2.2"
             }
         }
     }
