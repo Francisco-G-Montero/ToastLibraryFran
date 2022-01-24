@@ -1,5 +1,8 @@
 package com.frommetoyou.toasterlibrary
 
+import android.content.Context
+import android.widget.Toast
+
 class ToasterMessage {
     companion object {
         fun toastMessage(context: Context, message: String) {
